@@ -53,6 +53,7 @@ setup-steps:
 4. Setup in the plain text filter to switch on soembed filtering
 5. feel free to test as an anonymous user
 Note: the current version (july 2013) of views_dataexport keeps producing an error when I go to configuration page, the dev version resolved this issue
+There is a DRUSH-MAKEFILE that helps you in getting the original setup
 
 Readme for anonymous_abuse_report feature
 1. setup captcha in create_abuse_report form
